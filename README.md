@@ -1,4 +1,4 @@
-### ONOS, RYU, POX on DOCKER
+### ONOS, RYU, POX on DOCKER & MININET
 
 ```
 Docker Hub : https://hub.docker.com/repository/docker/gilangvperdana/sdn
