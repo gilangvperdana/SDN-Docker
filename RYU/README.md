@@ -13,7 +13,7 @@ $ docker exec -it id_ryu_container bash
 $ screen #optional
 $ ryu-manager simple_switch_stp_13.py gui_topology/gui_topology.py
 
-if you already use "screen" CTRL A+C to minimize and exit from container and POX will be run on background.
+if you already use "screen" CTRL A+C to minimize and exit from container and RYU will be run on background.
 
 Test on ip_ryu:6633 for forwarding data plane port & ip_ryu:8080 for GUI.
 ```
