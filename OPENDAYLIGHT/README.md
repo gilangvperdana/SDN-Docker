@@ -20,7 +20,8 @@ Login with "karaf" for password
 
 $ feature:install odl-restconf odl-l2switch-switch odl-mdsal-apidocs odl-dlux-all
 $ feature:list --installed #To list all installed features
-
+$ feature:list --installed #To list all ODL features
+ 
 To acccess WEB Interface : 
 $ ssh -p 8101 karaf@localhost 
 Login with "karaf" for password
