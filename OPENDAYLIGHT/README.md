@@ -26,7 +26,11 @@ $ ssh -p 8101 karaf@localhost
 Login with "karaf" for password
 
 $ feature:install odl-dlux-all
+
+Acess on ip_opendaylight:8181/apidoc/explorer/index.html 
+OR
 Access on ip_opendaylight:8181/index.html
 Login with user : "admin" & password : "admin"
+
 Acces on ip_opendaylight:6633 for OpenFlow
 ```
