@@ -5,8 +5,10 @@ DockerHub : https://hub.docker.com/r/glefevre/opendaylight/
 $ docker pull glefevre/opendaylight
 
 Run command :
-$ docker exec -it id_opendaylight_container bash
 $ docker run -d -p 6633:6633 -p 8181:8181 -p 8101:8101 --name=opendaylight glefevre/opendaylight
+
+To inside the container : 
+$ docker exec -it id_opendaylight_container bash
 
 To acccess WEB Interface : 
 $ ssh -p 8101 karaf@localhost 
