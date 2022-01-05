@@ -1,4 +1,4 @@
-### ONOS, RYU, POX, OPENDAYLIGHT on DOCKER & MININET
+### ONOS, RYU, POX, OPENDAYLIGHT & MININET on DOCKER
 
 ```
 Docker Hub : https://hub.docker.com/repository/docker/gilangvperdana/sdn
